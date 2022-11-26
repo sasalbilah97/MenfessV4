@@ -14,7 +14,7 @@ return`
  Premium : ${premnya}
 
  𝗕𝗢𝗧 𝗜𝗡𝗙𝗢
- Library : Baileys-MD
+ Library : ANIA BOT
  Time : ${jam} WIB
  Date : ${tanggal}
  Terdaftar : ${usernya}
@@ -726,11 +726,11 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081251549899
+Number: 081321776496
 A/N: __
 
 *Payment Dana*
-Number: 081251549899
+Number: 081321776496
 A/N: -_-
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -742,17 +742,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Dani
+ • *Nama:* Defan
  • *Umur:* 16 tahun
  • *Hoby:* Turu/tiktok
- • *Askot:* Palembang
+ • *Askot:* kebumen
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 081348106274
- • *Youtube:* DaniMaker
+ • *Whatsapp:* 6281321776496
+ • *ig:* https://www.instagram.com/defan_sugiarto
  • *Github:* -
  `
 }
